@@ -9,6 +9,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "jsonp": "^0.2.1",
     "vue": "^2.3.3",
     "vuex": "^2.4.0"
   },
